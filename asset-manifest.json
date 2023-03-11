@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NafeesWeatherReactJS/static/css/main.0685a176.css",
+    "main.js": "/NafeesWeatherReactJS/static/js/main.a6ca5b1a.js",
+    "index.html": "/NafeesWeatherReactJS/index.html",
+    "main.0685a176.css.map": "/NafeesWeatherReactJS/static/css/main.0685a176.css.map",
+    "main.a6ca5b1a.js.map": "/NafeesWeatherReactJS/static/js/main.a6ca5b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0685a176.css",
+    "static/js/main.a6ca5b1a.js"
+  ]
+}
